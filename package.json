@@ -1,6 +1,6 @@
 {
   "name": "cmd-trans",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "translator in command line",
   "main": "index.js",
   "bin": {
